@@ -1211,4 +1211,4 @@ if __name__ == "__main__":
 # koddaki ffmed ve youtube dl gibi yerlerin olmasının sebebi kodun müzik komutları eklene bilmesini saglamaktır.
 # LÜTFEN ASAGIDAKİ YAZIYI SİLMEYİN !!!
 # Bu kodlar Neler yok ki tarafından yazılıp acık kaynak olarak herkese sunulmustur satılması yasaktır. !!
-# Kodun github linki : 
+# Kodun github linki : https://github.com/neleryokki/Turkce-Genel-Gelismis-Discord-Botu
