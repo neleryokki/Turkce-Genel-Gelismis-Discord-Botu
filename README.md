@@ -1,4 +1,5 @@
-Türkçe-Genel-Gelismis-Discord-Botu 🇹🇷
+# Türkçe-Genel-Gelismis-Discord-Botu 🇹🇷
+
 Türkçe dil desteğiyle tam özellikli bir Discord botu. Sunucunuzu moderasyon, ekonomi ve yönetim araçlarıyla geliştirin.
 
 🌟 Öne Çıkan Özellikler
